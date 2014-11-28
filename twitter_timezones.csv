@@ -1,0 +1,124 @@
+gmt_second_offset,place,timezone
+-39600,Midway Island,GMT-11:00
+-39600,Samoa,GMT-11:00
+-36000,Hawaii,GMT-10:00
+-32400,Alaska,GMT-09:00
+-28800,Tijuana,GMT-08:00
+-28800,Pacific Time (US & Canada),GMT-08:00
+-25200,Mazatlan,GMT-07:00
+-25200,Mountain Time (US & Canada),GMT-07:00
+-25200,Arizona,GMT-07:00
+-25200,Chihuahua,GMT-07:00
+-21600,Central Time (US & Canada),GMT-06:00
+-21600,Mexico City,GMT-06:00
+-21600,Central America,GMT-06:00
+-21600,Monterrey,GMT-06:00
+-21600,Saskatchewan,GMT-06:00
+-18000,Eastern Time (US & Canada),GMT-05:00
+-18000,Quito,GMT-05:00
+-18000,Indiana (East),GMT-05:00
+-18000,Bogota,GMT-05:00
+-16200,Caracas,GMT-04:30
+-14400,Georgetown,GMT-04:00
+-14400,La Paz,GMT-04:00
+-14400,Atlantic Time (Canada),GMT-04:00
+-12600,Newfoundland,GMT-03:30
+-10800,Santiago,GMT-03:00
+-10800,Buenos Aires,GMT-03:00
+-10800,Greenland,GMT-03:00
+-7200,Mid-Atlantic,GMT-02:00
+-7200,Brasilia,GMT-02:00
+-3600,Cape Verde Is.,GMT-01:00
+-3600,Azores,GMT-01:00
+0,London,GMT
+0,Monrovia,GMT
+0,Dublin,GMT
+0,UTC,GMT
+0,Lisbon,GMT
+0,Casablanca,GMT
+3600,Ljubljana,GMT+01:00
+3600,Zagreb,GMT+01:00
+3600,Budapest,GMT+01:00
+3600,Skopje,GMT+01:00
+3600,Vienna,GMT+01:00
+3600,Prague,GMT+01:00
+3600,Bern,GMT+01:00
+3600,Amsterdam,GMT+01:00
+3600,Sarajevo,GMT+01:00
+3600,Stockholm,GMT+01:00
+3600,Brussels,GMT+01:00
+3600,Bratislava,GMT+01:00
+3600,Belgrade,GMT+01:00
+3600,Rome,GMT+01:00
+3600,Warsaw,GMT+01:00
+3600,Paris,GMT+01:00
+3600,West Central Africa,GMT+01:00
+3600,Madrid,GMT+01:00
+3600,Copenhagen,GMT+01:00
+7200,Kyiv,GMT+02:00
+7200,Athens,GMT+02:00
+7200,Pretoria,GMT+02:00
+7200,Jerusalem,GMT+02:00
+7200,Vilnius,GMT+02:00
+7200,Bucharest,GMT+02:00
+7200,Helsinki,GMT+02:00
+7200,Sofia,GMT+02:00
+7200,Cairo,GMT+02:00
+7200,Riga,GMT+02:00
+7200,Harare,GMT+02:00
+7200,Istanbul,GMT+02:00
+7200,Tallinn,GMT+02:00
+10800,Nairobi,GMT+03:00
+10800,Riyadh,GMT+03:00
+10800,Kuwait,GMT+03:00
+10800,Baghdad,GMT+03:00
+10800,Minsk,GMT+03:00
+12600,Tehran,GMT+03:30
+14400,Baku,GMT+04:00
+14400,Yerevan,GMT+04:00
+14400,Muscat,GMT+04:00
+14400,Tbilisi,GMT+04:00
+14400,Volgograd,GMT+04:00
+16200,Kabul,GMT+04:30
+18000,Karachi,GMT+05:00
+18000,Tashkent,GMT+05:00
+19800,New Delhi,GMT+05:30
+19800,Sri Jayawardenepura,GMT+05:30
+20700,Kathmandu,GMT+05:45
+21600,Almaty,GMT+06:00
+21600,Ekaterinburg,GMT+06:00
+21600,Dhaka,GMT+06:00
+23400,Rangoon,GMT+06:30
+25200,Jakarta,GMT+07:00
+25200,Hanoi,GMT+07:00
+25200,Novosibirsk,GMT+07:00
+28800,Urumqi,GMT+08:00
+28800,Ulaan Bataar,GMT+08:00
+28800,Hong Kong,GMT+08:00
+28800,Perth,GMT+08:00
+28800,Beijing,GMT+08:00
+28800,Taipei,GMT+08:00
+28800,Kuala Lumpur,GMT+08:00
+28800,Singapore,GMT+08:00
+28800,Krasnoyarsk,GMT+08:00
+28800,Chongqing,GMT+08:00
+32400,Seoul,GMT+09:00
+32400,Irkutsk,GMT+09:00
+32400,Tokyo,GMT+09:00
+34200,Darwin,GMT+09:30
+36000,Yakutsk,GMT+10:00
+36000,Port Moresby,GMT+10:00
+36000,Brisbane,GMT+10:00
+36000,Guam,GMT+10:00
+37800,Adelaide,GMT+10:30
+39600,Solomon Is.,GMT+11:00
+39600,New Caledonia,GMT+11:00
+39600,Hobart,GMT+11:00
+39600,Sydney,GMT+11:00
+39600,Melbourne,GMT+11:00
+43200,Magadan,GMT+12:00
+43200,Kamchatka,GMT+12:00
+43200,Marshall Is.,GMT+12:00
+46800,Fiji,GMT+13:00
+46800,Wellington,GMT+13:00
+46800,Nuku'alofa,GMT+13:00
