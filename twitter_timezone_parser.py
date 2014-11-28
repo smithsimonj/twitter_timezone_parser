@@ -24,6 +24,8 @@ for line in codecs.open('twitter_timezones.xml', encoding='utf8'):
     big_list.append({})
     for i, header in enumerate(column_headers):
         big_list[-1][header] = bits[i]
+        if i == 0:
+            big_list[-1][header] = int(bits[i])
 
 output_file_json.write(simplejson.dumps(big_list, sort_keys=True, indent=4 * ' '))
 

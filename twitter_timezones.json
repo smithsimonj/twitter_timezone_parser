@@ -1,616 +1,616 @@
 [
     {
-        "gmt_second_offset": "-39600",
+        "gmt_second_offset": -39600,
         "place": "Midway Island",
         "timezone": "GMT-11:00"
     },
     {
-        "gmt_second_offset": "-39600",
+        "gmt_second_offset": -39600,
         "place": "Samoa",
         "timezone": "GMT-11:00"
     },
     {
-        "gmt_second_offset": "-36000",
+        "gmt_second_offset": -36000,
         "place": "Hawaii",
         "timezone": "GMT-10:00"
     },
     {
-        "gmt_second_offset": "-32400",
+        "gmt_second_offset": -32400,
         "place": "Alaska",
         "timezone": "GMT-09:00"
     },
     {
-        "gmt_second_offset": "-28800",
+        "gmt_second_offset": -28800,
         "place": "Tijuana",
         "timezone": "GMT-08:00"
     },
     {
-        "gmt_second_offset": "-28800",
+        "gmt_second_offset": -28800,
         "place": "Pacific Time (US & Canada)",
         "timezone": "GMT-08:00"
     },
     {
-        "gmt_second_offset": "-25200",
+        "gmt_second_offset": -25200,
         "place": "Mazatlan",
         "timezone": "GMT-07:00"
     },
     {
-        "gmt_second_offset": "-25200",
+        "gmt_second_offset": -25200,
         "place": "Mountain Time (US & Canada)",
         "timezone": "GMT-07:00"
     },
     {
-        "gmt_second_offset": "-25200",
+        "gmt_second_offset": -25200,
         "place": "Arizona",
         "timezone": "GMT-07:00"
     },
     {
-        "gmt_second_offset": "-25200",
+        "gmt_second_offset": -25200,
         "place": "Chihuahua",
         "timezone": "GMT-07:00"
     },
     {
-        "gmt_second_offset": "-21600",
+        "gmt_second_offset": -21600,
         "place": "Central Time (US & Canada)",
         "timezone": "GMT-06:00"
     },
     {
-        "gmt_second_offset": "-21600",
+        "gmt_second_offset": -21600,
         "place": "Mexico City",
         "timezone": "GMT-06:00"
     },
     {
-        "gmt_second_offset": "-21600",
+        "gmt_second_offset": -21600,
         "place": "Central America",
         "timezone": "GMT-06:00"
     },
     {
-        "gmt_second_offset": "-21600",
+        "gmt_second_offset": -21600,
         "place": "Monterrey",
         "timezone": "GMT-06:00"
     },
     {
-        "gmt_second_offset": "-21600",
+        "gmt_second_offset": -21600,
         "place": "Saskatchewan",
         "timezone": "GMT-06:00"
     },
     {
-        "gmt_second_offset": "-18000",
+        "gmt_second_offset": -18000,
         "place": "Eastern Time (US & Canada)",
         "timezone": "GMT-05:00"
     },
     {
-        "gmt_second_offset": "-18000",
+        "gmt_second_offset": -18000,
         "place": "Quito",
         "timezone": "GMT-05:00"
     },
     {
-        "gmt_second_offset": "-18000",
+        "gmt_second_offset": -18000,
         "place": "Indiana (East)",
         "timezone": "GMT-05:00"
     },
     {
-        "gmt_second_offset": "-18000",
+        "gmt_second_offset": -18000,
         "place": "Bogota",
         "timezone": "GMT-05:00"
     },
     {
-        "gmt_second_offset": "-16200",
+        "gmt_second_offset": -16200,
         "place": "Caracas",
         "timezone": "GMT-04:30"
     },
     {
-        "gmt_second_offset": "-14400",
+        "gmt_second_offset": -14400,
         "place": "Georgetown",
         "timezone": "GMT-04:00"
     },
     {
-        "gmt_second_offset": "-14400",
+        "gmt_second_offset": -14400,
         "place": "La Paz",
         "timezone": "GMT-04:00"
     },
     {
-        "gmt_second_offset": "-14400",
+        "gmt_second_offset": -14400,
         "place": "Atlantic Time (Canada)",
         "timezone": "GMT-04:00"
     },
     {
-        "gmt_second_offset": "-12600",
+        "gmt_second_offset": -12600,
         "place": "Newfoundland",
         "timezone": "GMT-03:30"
     },
     {
-        "gmt_second_offset": "-10800",
+        "gmt_second_offset": -10800,
         "place": "Santiago",
         "timezone": "GMT-03:00"
     },
     {
-        "gmt_second_offset": "-10800",
+        "gmt_second_offset": -10800,
         "place": "Buenos Aires",
         "timezone": "GMT-03:00"
     },
     {
-        "gmt_second_offset": "-10800",
+        "gmt_second_offset": -10800,
         "place": "Greenland",
         "timezone": "GMT-03:00"
     },
     {
-        "gmt_second_offset": "-7200",
+        "gmt_second_offset": -7200,
         "place": "Mid-Atlantic",
         "timezone": "GMT-02:00"
     },
     {
-        "gmt_second_offset": "-7200",
+        "gmt_second_offset": -7200,
         "place": "Brasilia",
         "timezone": "GMT-02:00"
     },
     {
-        "gmt_second_offset": "-3600",
+        "gmt_second_offset": -3600,
         "place": "Cape Verde Is.",
         "timezone": "GMT-01:00"
     },
     {
-        "gmt_second_offset": "-3600",
+        "gmt_second_offset": -3600,
         "place": "Azores",
         "timezone": "GMT-01:00"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "London",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "Monrovia",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "Dublin",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "UTC",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "Lisbon",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "0",
+        "gmt_second_offset": 0,
         "place": "Casablanca",
         "timezone": "GMT"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Ljubljana",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Zagreb",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Budapest",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Skopje",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Vienna",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Prague",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Bern",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Amsterdam",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Sarajevo",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Stockholm",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Brussels",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Bratislava",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Belgrade",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Rome",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Warsaw",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Paris",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "West Central Africa",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Madrid",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "3600",
+        "gmt_second_offset": 3600,
         "place": "Copenhagen",
         "timezone": "GMT+01:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Kyiv",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Athens",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Pretoria",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Jerusalem",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Vilnius",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Bucharest",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Helsinki",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Sofia",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Cairo",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Riga",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Harare",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Istanbul",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "7200",
+        "gmt_second_offset": 7200,
         "place": "Tallinn",
         "timezone": "GMT+02:00"
     },
     {
-        "gmt_second_offset": "10800",
+        "gmt_second_offset": 10800,
         "place": "Nairobi",
         "timezone": "GMT+03:00"
     },
     {
-        "gmt_second_offset": "10800",
+        "gmt_second_offset": 10800,
         "place": "Riyadh",
         "timezone": "GMT+03:00"
     },
     {
-        "gmt_second_offset": "10800",
+        "gmt_second_offset": 10800,
         "place": "Kuwait",
         "timezone": "GMT+03:00"
     },
     {
-        "gmt_second_offset": "10800",
+        "gmt_second_offset": 10800,
         "place": "Baghdad",
         "timezone": "GMT+03:00"
     },
     {
-        "gmt_second_offset": "10800",
+        "gmt_second_offset": 10800,
         "place": "Minsk",
         "timezone": "GMT+03:00"
     },
     {
-        "gmt_second_offset": "12600",
+        "gmt_second_offset": 12600,
         "place": "Tehran",
         "timezone": "GMT+03:30"
     },
     {
-        "gmt_second_offset": "14400",
+        "gmt_second_offset": 14400,
         "place": "Baku",
         "timezone": "GMT+04:00"
     },
     {
-        "gmt_second_offset": "14400",
+        "gmt_second_offset": 14400,
         "place": "Yerevan",
         "timezone": "GMT+04:00"
     },
     {
-        "gmt_second_offset": "14400",
+        "gmt_second_offset": 14400,
         "place": "Muscat",
         "timezone": "GMT+04:00"
     },
     {
-        "gmt_second_offset": "14400",
+        "gmt_second_offset": 14400,
         "place": "Tbilisi",
         "timezone": "GMT+04:00"
     },
     {
-        "gmt_second_offset": "14400",
+        "gmt_second_offset": 14400,
         "place": "Volgograd",
         "timezone": "GMT+04:00"
     },
     {
-        "gmt_second_offset": "16200",
+        "gmt_second_offset": 16200,
         "place": "Kabul",
         "timezone": "GMT+04:30"
     },
     {
-        "gmt_second_offset": "18000",
+        "gmt_second_offset": 18000,
         "place": "Karachi",
         "timezone": "GMT+05:00"
     },
     {
-        "gmt_second_offset": "18000",
+        "gmt_second_offset": 18000,
         "place": "Tashkent",
         "timezone": "GMT+05:00"
     },
     {
-        "gmt_second_offset": "19800",
+        "gmt_second_offset": 19800,
         "place": "New Delhi",
         "timezone": "GMT+05:30"
     },
     {
-        "gmt_second_offset": "19800",
+        "gmt_second_offset": 19800,
         "place": "Sri Jayawardenepura",
         "timezone": "GMT+05:30"
     },
     {
-        "gmt_second_offset": "20700",
+        "gmt_second_offset": 20700,
         "place": "Kathmandu",
         "timezone": "GMT+05:45"
     },
     {
-        "gmt_second_offset": "21600",
+        "gmt_second_offset": 21600,
         "place": "Almaty",
         "timezone": "GMT+06:00"
     },
     {
-        "gmt_second_offset": "21600",
+        "gmt_second_offset": 21600,
         "place": "Ekaterinburg",
         "timezone": "GMT+06:00"
     },
     {
-        "gmt_second_offset": "21600",
+        "gmt_second_offset": 21600,
         "place": "Dhaka",
         "timezone": "GMT+06:00"
     },
     {
-        "gmt_second_offset": "23400",
+        "gmt_second_offset": 23400,
         "place": "Rangoon",
         "timezone": "GMT+06:30"
     },
     {
-        "gmt_second_offset": "25200",
+        "gmt_second_offset": 25200,
         "place": "Jakarta",
         "timezone": "GMT+07:00"
     },
     {
-        "gmt_second_offset": "25200",
+        "gmt_second_offset": 25200,
         "place": "Hanoi",
         "timezone": "GMT+07:00"
     },
     {
-        "gmt_second_offset": "25200",
+        "gmt_second_offset": 25200,
         "place": "Novosibirsk",
         "timezone": "GMT+07:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Urumqi",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Ulaan Bataar",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Hong Kong",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Perth",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Beijing",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Taipei",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Kuala Lumpur",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Singapore",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Krasnoyarsk",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "28800",
+        "gmt_second_offset": 28800,
         "place": "Chongqing",
         "timezone": "GMT+08:00"
     },
     {
-        "gmt_second_offset": "32400",
+        "gmt_second_offset": 32400,
         "place": "Seoul",
         "timezone": "GMT+09:00"
     },
     {
-        "gmt_second_offset": "32400",
+        "gmt_second_offset": 32400,
         "place": "Irkutsk",
         "timezone": "GMT+09:00"
     },
     {
-        "gmt_second_offset": "32400",
+        "gmt_second_offset": 32400,
         "place": "Tokyo",
         "timezone": "GMT+09:00"
     },
     {
-        "gmt_second_offset": "34200",
+        "gmt_second_offset": 34200,
         "place": "Darwin",
         "timezone": "GMT+09:30"
     },
     {
-        "gmt_second_offset": "36000",
+        "gmt_second_offset": 36000,
         "place": "Yakutsk",
         "timezone": "GMT+10:00"
     },
     {
-        "gmt_second_offset": "36000",
+        "gmt_second_offset": 36000,
         "place": "Port Moresby",
         "timezone": "GMT+10:00"
     },
     {
-        "gmt_second_offset": "36000",
+        "gmt_second_offset": 36000,
         "place": "Brisbane",
         "timezone": "GMT+10:00"
     },
     {
-        "gmt_second_offset": "36000",
+        "gmt_second_offset": 36000,
         "place": "Guam",
         "timezone": "GMT+10:00"
     },
     {
-        "gmt_second_offset": "37800",
+        "gmt_second_offset": 37800,
         "place": "Adelaide",
         "timezone": "GMT+10:30"
     },
     {
-        "gmt_second_offset": "39600",
+        "gmt_second_offset": 39600,
         "place": "Solomon Is.",
         "timezone": "GMT+11:00"
     },
     {
-        "gmt_second_offset": "39600",
+        "gmt_second_offset": 39600,
         "place": "New Caledonia",
         "timezone": "GMT+11:00"
     },
     {
-        "gmt_second_offset": "39600",
+        "gmt_second_offset": 39600,
         "place": "Hobart",
         "timezone": "GMT+11:00"
     },
     {
-        "gmt_second_offset": "39600",
+        "gmt_second_offset": 39600,
         "place": "Sydney",
         "timezone": "GMT+11:00"
     },
     {
-        "gmt_second_offset": "39600",
+        "gmt_second_offset": 39600,
         "place": "Melbourne",
         "timezone": "GMT+11:00"
     },
     {
-        "gmt_second_offset": "43200",
+        "gmt_second_offset": 43200,
         "place": "Magadan",
         "timezone": "GMT+12:00"
     },
     {
-        "gmt_second_offset": "43200",
+        "gmt_second_offset": 43200,
         "place": "Kamchatka",
         "timezone": "GMT+12:00"
     },
     {
-        "gmt_second_offset": "43200",
+        "gmt_second_offset": 43200,
         "place": "Marshall Is.",
         "timezone": "GMT+12:00"
     },
     {
-        "gmt_second_offset": "46800",
+        "gmt_second_offset": 46800,
         "place": "Fiji",
         "timezone": "GMT+13:00"
     },
     {
-        "gmt_second_offset": "46800",
+        "gmt_second_offset": 46800,
         "place": "Wellington",
         "timezone": "GMT+13:00"
     },
     {
-        "gmt_second_offset": "46800",
+        "gmt_second_offset": 46800,
         "place": "Nuku'alofa",
         "timezone": "GMT+13:00"
     }
